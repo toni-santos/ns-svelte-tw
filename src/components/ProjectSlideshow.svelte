@@ -3,8 +3,8 @@
     import SectionHeader from './SectionHeader.svelte'
 </script>
 
-<SectionHeader text="Projetos"/>
-<section class="flew flex-row justify-center justify-items-center p-10 gap-10 text-white">
+<SectionHeader text="Projetos Arquivados"/>
+<section class="flex flex-row justify-center justify-items-center p-10 gap-10 max-lg:flex-col">
     <ProjectItem/>
     <ProjectItem/>
     <ProjectItem/>
