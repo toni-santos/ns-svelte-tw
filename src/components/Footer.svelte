@@ -7,7 +7,7 @@
     import IoLogoInstagram from 'svelte-icons/io/IoLogoInstagram.svelte';
 </script>
 
-<footer class="w-full px-4 pb-2">
+<footer class="w-full px-4 pb-2 ">
     <hr class="my-4 h-px bg-gray-200 border-0">
     <div class="grid grid-cols-3 text-white">
         <div class="flex justify-center flex-row">
